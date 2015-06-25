@@ -1,0 +1,1 @@
+tinyse is a experimental mini yet total search engine written by python. it is designed to index knowledge from one or several sites, easy to control the crawling, indexing and ranking.
